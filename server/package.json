@@ -1,26 +1,26 @@
 {
-  "name": "graphql-typescript-tutorial",
+  "name": "graphql-server",
   "version": "1.0.0",
-  "description": "Source code for the video tutorial \"GraphQL and TypeScript\"",
+  "description": "Star wars people endpoint wraped with apollo graphql",
   "main": "index.js",
   "scripts": {
     "dev": "ts-node-dev --respawn --transpile-only src/index.ts"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/willjw3/graphql-typescript-tutorial.git"
+    "url": "git+https://github.com/samassango/sovtecassessment.git"
   },
   "keywords": [
     "graphql",
     "typescript",
     "apollo"
   ],
-  "author": "willjw3",
+  "author": "SA Massango",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/willjw3/graphql-typescript-tutorial/issues"
+    "url": "https://github.com/samassango/sovtecassessment/issues"
   },
-  "homepage": "https://github.com/willjw3/graphql-typescript-tutorial#readme",
+  "homepage": "https://github.com/samassango/sovtecassessment/issues#readme",
   "dependencies": {
     "@types/pg": "^7.14.11",
     "apollo-datasource-rest": "^3.4.0",
